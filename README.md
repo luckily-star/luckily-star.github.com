@@ -1,4 +1,4 @@
-## 欢迎来到我的主页
+## Welcome to Github!
 
 You can use the [editor on GitHub](https://github.com/luckily-star/luckily-star.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
